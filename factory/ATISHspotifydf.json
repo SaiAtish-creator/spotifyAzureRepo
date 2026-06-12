@@ -1,0 +1,15 @@
+{
+	"name": "ATISHspotifydf",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "0ced11ff-482c-4a2b-87d2-edc44354c190",
+		"tenantId": "95cd0e96-5491-43c0-96cd-88fb8e2cc64e"
+	}
+}
